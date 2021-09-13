@@ -18,6 +18,7 @@
 		D0DEF54F26EFBF3B0016A890 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DEF54E26EFBF3B0016A890 /* Endpoint.swift */; };
 		D0DEF55126EFBFDC0016A890 /* RemoteContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DEF55026EFBFDC0016A890 /* RemoteContentViewModel.swift */; };
 		D0DEF55326EFC06D0016A890 /* RemoteContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DEF55226EFC06D0016A890 /* RemoteContentView.swift */; };
+		D0DEF55526EFC3810016A890 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DEF55426EFC3810016A890 /* DataService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		D0DEF54E26EFBF3B0016A890 /* Endpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Endpoint.swift; sourceTree = "<group>"; };
 		D0DEF55026EFBFDC0016A890 /* RemoteContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteContentViewModel.swift; sourceTree = "<group>"; };
 		D0DEF55226EFC06D0016A890 /* RemoteContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteContentView.swift; sourceTree = "<group>"; };
+		D0DEF55426EFC3810016A890 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 			isa = PBXGroup;
 			children = (
 				D0DEF54E26EFBF3B0016A890 /* Endpoint.swift */,
+				D0DEF55426EFC3810016A890 /* DataService.swift */,
 			);
 			path = DataService;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D0DEF55126EFBFDC0016A890 /* RemoteContentViewModel.swift in Sources */,
+				D0DEF55526EFC3810016A890 /* DataService.swift in Sources */,
 				D0DEF55326EFC06D0016A890 /* RemoteContentView.swift in Sources */,
 				D0DEF53326EFB3DF0016A890 /* ContentView.swift in Sources */,
 				D0DEF54926EFB68C0016A890 /* ContentViewModel.swift in Sources */,
