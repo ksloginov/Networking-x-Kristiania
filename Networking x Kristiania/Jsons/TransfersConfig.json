@@ -1,0 +1,3104 @@
+{
+  "leagues": [
+    {
+      "id": 38,
+      "name": "Bundesliga",
+      "countryCode": "AUT",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 10053,
+          "name": "Admira Moedling",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10008,
+          "name": "Altach",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10011,
+          "name": "Austria Wien",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10056,
+          "name": "Hartberg",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9977,
+          "name": "LASK",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10015,
+          "name": "Rapid Wien",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10017,
+          "name": "Ried",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10013,
+          "name": "Salzburg",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10009,
+          "name": "SK Austria Klagenfurt",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10014,
+          "name": "Sturm Graz",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1954,
+          "name": "Wolfsberger AC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1583,
+          "name": "WSG Swarovski Tirol",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "First Division A",
+      "countryCode": "BEL",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 8635,
+          "name": "Anderlecht",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 583877,
+          "name": "Beerschot",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9984,
+          "name": "Cercle Brugge",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8342,
+          "name": "Club Brugge",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6351,
+          "name": "Eupen",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9987,
+          "name": "Genk",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9991,
+          "name": "Gent",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8571,
+          "name": "Kortrijk",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8203,
+          "name": "KV Mechelen",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1773,
+          "name": "OH Leuven",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8573,
+          "name": "Oostende",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 149408,
+          "name": "RFC Seraing",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9988,
+          "name": "Royal Antwerp",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9986,
+          "name": "Sporting Charleroi",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9997,
+          "name": "St.Truiden",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9985,
+          "name": "Standard Liege",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7978,
+          "name": "Union St.Gilloise",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10000,
+          "name": "Zulte Waregem",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Superligaen",
+      "countryCode": "DEN",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 8470,
+          "name": "Aalborg BK",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8071,
+          "name": "AGF Aarhus",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8595,
+          "name": "Brøndby IF",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8391,
+          "name": "FC København",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8113,
+          "name": "Midtjylland",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10202,
+          "name": "Nordsjælland",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8414,
+          "name": "Odense",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8410,
+          "name": "Randers FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8415,
+          "name": "Silkeborg",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8487,
+          "name": "SønderjyskE",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8231,
+          "name": "Vejle Boldklub",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9939,
+          "name": "Viborg",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Premier League",
+      "countryCode": "ENG",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 9825,
+          "name": "Arsenal",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10252,
+          "name": "Aston Villa",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9937,
+          "name": "Brentford",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10204,
+          "name": "Brighton & Hove Albion",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8191,
+          "name": "Burnley",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8455,
+          "name": "Chelsea",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9826,
+          "name": "Crystal Palace",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8668,
+          "name": "Everton",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8463,
+          "name": "Leeds United",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8197,
+          "name": "Leicester City",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8650,
+          "name": "Liverpool",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8456,
+          "name": "Manchester City",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10260,
+          "name": "Manchester United",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10261,
+          "name": "Newcastle United",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9850,
+          "name": "Norwich City",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8466,
+          "name": "Southampton",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8586,
+          "name": "Tottenham Hotspur",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9817,
+          "name": "Watford",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8654,
+          "name": "West Ham United",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8602,
+          "name": "Wolverhampton Wanderers",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Championship",
+      "countryCode": "ENG",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 8678,
+          "name": "AFC Bournemouth",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8283,
+          "name": "Barnsley",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8658,
+          "name": "Birmingham City",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8655,
+          "name": "Blackburn Rovers",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8483,
+          "name": "Blackpool",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8427,
+          "name": "Bristol City",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8344,
+          "name": "Cardiff City",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8669,
+          "name": "Coventry City",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10170,
+          "name": "Derby County",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9879,
+          "name": "Fulham",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9796,
+          "name": "Huddersfield Town",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8667,
+          "name": "Hull City",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8346,
+          "name": "Luton Town",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8549,
+          "name": "Middlesbrough",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10004,
+          "name": "Millwall",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10203,
+          "name": "Nottingham Forest",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8677,
+          "name": "Peterborough United",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8411,
+          "name": "Preston North End",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10172,
+          "name": "Queens Park Rangers",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9798,
+          "name": "Reading",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8657,
+          "name": "Sheffield United",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10194,
+          "name": "Stoke City",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10003,
+          "name": "Swansea City",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8659,
+          "name": "West Bromwich Albion",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Ligue 1",
+      "countryCode": "FRA",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 8121,
+          "name": "Angers",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9827,
+          "name": "Bordeaux",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8521,
+          "name": "Brest",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8311,
+          "name": "Clermont Foot",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8588,
+          "name": "Lens",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8639,
+          "name": "Lille",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8689,
+          "name": "Lorient",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9748,
+          "name": "Lyon",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8592,
+          "name": "Marseille",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8550,
+          "name": "Metz",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9829,
+          "name": "Monaco",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10249,
+          "name": "Montpellier",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9830,
+          "name": "Nantes",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9831,
+          "name": "Nice",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9847,
+          "name": "Paris Saint-Germain",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9837,
+          "name": "Reims",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9851,
+          "name": "Rennes",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9853,
+          "name": "Saint-Etienne",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9848,
+          "name": "Strasbourg",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10242,
+          "name": "Troyes",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "1. Bundesliga",
+      "countryCode": "GER",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 9912,
+          "name": "Arminia Bielefeld",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8406,
+          "name": "Augsburg",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8178,
+          "name": "Bayer Leverkusen",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9823,
+          "name": "Bayern München",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9911,
+          "name": "Bochum",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9789,
+          "name": "Borussia Dortmund",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9788,
+          "name": "Borussia M'Gladbach",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9810,
+          "name": "Eintracht Frankfurt",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8722,
+          "name": "1. FC Köln",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8358,
+          "name": "Freiburg",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8357,
+          "name": "Greuther Fürth",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8177,
+          "name": "Hertha BSC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8226,
+          "name": "TSG Hoffenheim",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9905,
+          "name": "Mainz 05",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 178475,
+          "name": "RB Leipzig",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8149,
+          "name": "Union Berlin",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10269,
+          "name": "VfB Stuttgart",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8721,
+          "name": "Wolfsburg",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Serie A",
+      "countryCode": "ITA",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 8524,
+          "name": "Atalanta",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9857,
+          "name": "Bologna",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8529,
+          "name": "Cagliari",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8534,
+          "name": "Empoli",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8535,
+          "name": "Fiorentina",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10233,
+          "name": "Genoa",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9876,
+          "name": "Hellas Verona",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8636,
+          "name": "Inter",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9885,
+          "name": "Juventus",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8543,
+          "name": "Lazio",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8564,
+          "name": "Milan",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9875,
+          "name": "Napoli",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8686,
+          "name": "Roma",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6480,
+          "name": "Salernitana",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9882,
+          "name": "Sampdoria",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7943,
+          "name": "Sassuolo",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9881,
+          "name": "Spezia",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9804,
+          "name": "Torino",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8600,
+          "name": "Udinese",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7881,
+          "name": "Venezia",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Eredivisie",
+      "countryCode": "NED",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 8593,
+          "name": "Ajax",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10229,
+          "name": "AZ Alkmaar",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7788,
+          "name": "Cambuur",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8674,
+          "name": "FC Groningen",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8611,
+          "name": "FC Twente",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9908,
+          "name": "FC Utrecht",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10235,
+          "name": "Feyenoord",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6422,
+          "name": "Fortuna Sittard",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6433,
+          "name": "Go Ahead Eagles",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9791,
+          "name": "Heracles",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8464,
+          "name": "NEC Nijmegen",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6413,
+          "name": "PEC Zwolle",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8640,
+          "name": "PSV Eindhoven",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10219,
+          "name": "RKC Waalwijk",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10228,
+          "name": "SC Heerenveen",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8614,
+          "name": "Sparta Rotterdam",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8277,
+          "name": "Vitesse",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8525,
+          "name": "Willem II",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Eliteserien",
+      "countryCode": "NOR",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 8402,
+          "name": "Bodø/Glimt",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8468,
+          "name": "Brann",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8512,
+          "name": "FK Haugesund",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8605,
+          "name": "Kristiansund",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8476,
+          "name": "Lillestrøm",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6541,
+          "name": "Mjøndalen",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9917,
+          "name": "Molde",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7988,
+          "name": "Odds Ballklubb",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8422,
+          "name": "Rosenborg",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8609,
+          "name": "Sandefjord",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8509,
+          "name": "Sarpsborg 08",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9918,
+          "name": "Stabæk",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8180,
+          "name": "Strømsgodset",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8608,
+          "name": "Tromsø",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8007,
+          "name": "Vålerenga",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8478,
+          "name": "Viking",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Liga Portugal",
+      "countryCode": "POR",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 158085,
+          "name": "Arouca",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9807,
+          "name": "Belenenses SAD",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9772,
+          "name": "Benfica",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8613,
+          "name": "Boavista",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10264,
+          "name": "Braga",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7842,
+          "name": "Estoril",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1634,
+          "name": "Famalicao",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9773,
+          "name": "FC Porto",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9764,
+          "name": "Gil Vicente",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10212,
+          "name": "Maritimo",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8348,
+          "name": "Moreirense",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6403,
+          "name": "Pacos de Ferreira",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9765,
+          "name": "Portimonense",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1567,
+          "name": "Santa Clara",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9768,
+          "name": "Sporting CP",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 188163,
+          "name": "Tondela",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7844,
+          "name": "Vitoria de Guimaraes",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 4531,
+          "name": "Vizela",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Premier League",
+      "countryCode": "RUS",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 1677,
+          "name": "Arsenal Tula",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9760,
+          "name": "CSKA Moscow",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9763,
+          "name": "Dinamo Moscow",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 168719,
+          "name": "FC Krasnodar",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8705,
+          "name": "FC Rostov",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 198150,
+          "name": "FC Ufa",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8708,
+          "name": "FK Akhmat",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8711,
+          "name": "Khimki",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8709,
+          "name": "Krylya Sovetov Samara",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8710,
+          "name": "Lokomotiv Moscow",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 657508,
+          "name": "Nizhny Novgorod",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 195601,
+          "name": "PFC Sochi",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8683,
+          "name": "Rubin Kazan",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8643,
+          "name": "Spartak Moscow",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 49706,
+          "name": "Ural",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8698,
+          "name": "Zenit St. Petersburg",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Premiership",
+      "countryCode": "SCO",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 8485,
+          "name": "Aberdeen",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9925,
+          "name": "Celtic",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8284,
+          "name": "Dundee FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9938,
+          "name": "Dundee United",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9860,
+          "name": "Hearts",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10251,
+          "name": "Hibernian",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8282,
+          "name": "Livingston",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9927,
+          "name": "Motherwell",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8548,
+          "name": "Rangers",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8649,
+          "name": "Ross County",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8467,
+          "name": "St. Johnstone",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9800,
+          "name": "St. Mirren",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Allsvenskan",
+      "countryCode": "SWE",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 8349,
+          "name": "AIK",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6544,
+          "name": "Degerfors",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9802,
+          "name": "Djurgården",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8014,
+          "name": "Elfsborg",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8428,
+          "name": "Häcken",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8310,
+          "name": "Halmstads BK",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8248,
+          "name": "Hammarby",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9893,
+          "name": "IFK Göteborg",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8449,
+          "name": "IFK Norrköping",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9892,
+          "name": "Kalmar FF",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10237,
+          "name": "Malmö FF",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8127,
+          "name": "Mjällby",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8527,
+          "name": "Örebro",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 2004,
+          "name": "Östersunds FK",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6694,
+          "name": "Sirius",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6692,
+          "name": "Varbergs BoIS FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Super League",
+      "countryCode": "SUI",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 9931,
+          "name": "Basel",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10243,
+          "name": "FC Zürich",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9956,
+          "name": "Grasshopper",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7730,
+          "name": "Lausanne",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7896,
+          "name": "Lugano",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10199,
+          "name": "Luzern",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9777,
+          "name": "Servette",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10179,
+          "name": "Sion",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10190,
+          "name": "St. Gallen",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10192,
+          "name": "Young Boys",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Super Lig",
+      "countryCode": "TUR",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 1926,
+          "name": "Adana Demirspor",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 4678,
+          "name": "Alanyaspor",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1929,
+          "name": "Altay",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1931,
+          "name": "Antalyaspor",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10188,
+          "name": "Besiktas",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 2088,
+          "name": "Fatih Karagumruk",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8695,
+          "name": "Fenerbahce",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8637,
+          "name": "Galatasaray",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 4081,
+          "name": "Gaziantep FK",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 5759,
+          "name": "Giresunspor",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1925,
+          "name": "Goztepe",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 95749,
+          "name": "Hatayspor",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1933,
+          "name": "Istanbul Basaksehir",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 4685,
+          "name": "Kasimpasa",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10182,
+          "name": "Kayserispor",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8622,
+          "name": "Konyaspor",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 2166,
+          "name": "Rizespor",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6265,
+          "name": "Sivasspor",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9752,
+          "name": "Trabzonspor",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 146407,
+          "name": "Yeni Malatyaspor",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Serie B",
+      "countryCode": "ITA",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 6503,
+          "name": "Alessandria",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8522,
+          "name": "Ascoli",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6266,
+          "name": "Benevento",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9858,
+          "name": "Brescia",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6485,
+          "name": "Cittadella",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10171,
+          "name": "Como",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6456,
+          "name": "Cosenza",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7801,
+          "name": "Cremonese",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9884,
+          "name": "Crotone",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9891,
+          "name": "Frosinone",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 145007,
+          "name": "L.R. Vicenza Virtus",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9888,
+          "name": "Lecce",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6504,
+          "name": "Monza",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10167,
+          "name": "Parma Calcio 1913",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8685,
+          "name": "Perugia",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6479,
+          "name": "Pisa",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 465613,
+          "name": "Pordenone",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8690,
+          "name": "Reggina",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8547,
+          "name": "SPAL",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6457,
+          "name": "Ternana",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "LaLiga",
+      "countryCode": "ESP",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 8315,
+          "name": "Athletic Club",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9906,
+          "name": "Atletico Madrid",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8634,
+          "name": "Barcelona",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8385,
+          "name": "Cadiz",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9910,
+          "name": "Celta Vigo",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9866,
+          "name": "Deportivo Alaves",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10268,
+          "name": "Elche",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8558,
+          "name": "Espanyol",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8305,
+          "name": "Getafe",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7878,
+          "name": "Granada",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8581,
+          "name": "Levante",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8661,
+          "name": "Mallorca",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8371,
+          "name": "Osasuna",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8370,
+          "name": "Rayo Vallecano",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8603,
+          "name": "Real Betis",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8633,
+          "name": "Real Madrid",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8560,
+          "name": "Real Sociedad",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8302,
+          "name": "Sevilla",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10267,
+          "name": "Valencia",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10205,
+          "name": "Villarreal",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Liga Profesional",
+      "countryCode": "ARG",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 161728,
+          "name": "Aldosivi",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10086,
+          "name": "Argentinos Juniors",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10098,
+          "name": "Arsenal Sarandi",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 161727,
+          "name": "Atletico Tucuman",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10087,
+          "name": "Banfield",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10077,
+          "name": "Boca Juniors",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 213596,
+          "name": "Central Cordoba de Santiago",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10089,
+          "name": "Club Atletico Platense",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10088,
+          "name": "Colon",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 161730,
+          "name": "Defensa y Justicia",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10094,
+          "name": "Estudiantes",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10103,
+          "name": "Gimnasia LP",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10227,
+          "name": "Godoy Cruz",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10081,
+          "name": "Huracan",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10078,
+          "name": "Independiente",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10082,
+          "name": "Lanus",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10201,
+          "name": "Newell's Old Boys",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 207875,
+          "name": "Patronato de Parana",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10080,
+          "name": "Racing Club",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10076,
+          "name": "River Plate",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10084,
+          "name": "Rosario Central",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10083,
+          "name": "San Lorenzo",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 202757,
+          "name": "Sarmiento",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10101,
+          "name": "Talleres",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10096,
+          "name": "Union",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10079,
+          "name": "Velez Sarsfield",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Premier Division",
+      "countryCode": "IRL",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 4594,
+          "name": "Bohemian FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8338,
+          "name": "Derry City",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8339,
+          "name": "Drogheda United",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1853,
+          "name": "Dundalk",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1627,
+          "name": "Finn Harps",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 4569,
+          "name": "Longford Town",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 4131,
+          "name": "Shamrock Rovers",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6361,
+          "name": "Sligo Rovers",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1854,
+          "name": "St. Patrick's Athletic",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6042,
+          "name": "Waterford FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "name": "MLS",
+      "countryCode": "USA",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 773958,
+          "name": "Atlanta United",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1218886,
+          "name": "Austin FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 161195,
+          "name": "CF Montreal",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6397,
+          "name": "Chicago Fire FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8314,
+          "name": "Colorado Rapids",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6001,
+          "name": "Columbus Crew",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6602,
+          "name": "DC United",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 722265,
+          "name": "FC Cincinnati",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6399,
+          "name": "FC Dallas",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8259,
+          "name": "Houston Dynamo FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 960720,
+          "name": "Inter Miami CF",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6637,
+          "name": "LA Galaxy",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 867280,
+          "name": "Los Angeles FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 207242,
+          "name": "Minnesota United",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 915807,
+          "name": "Nashville SC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6580,
+          "name": "New England Revolution",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 546238,
+          "name": "New York City FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6514,
+          "name": "New York Red Bulls",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 267810,
+          "name": "Orlando City",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 191716,
+          "name": "Philadelphia Union",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 307690,
+          "name": "Portland Timbers",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6606,
+          "name": "Real Salt Lake",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6603,
+          "name": "San Jose Earthquakes",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 130394,
+          "name": "Seattle Sounders FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6604,
+          "name": "Sporting Kansas City",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 56453,
+          "name": "Toronto FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 307691,
+          "name": "Vancouver Whitecaps",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "name": "LaLiga2",
+      "countryCode": "ESP",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 161750,
+          "name": "Alcorcon",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9865,
+          "name": "Almeria",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7876,
+          "name": "Burgos CF",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8554,
+          "name": "Cartagena",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 4032,
+          "name": "CD Mirandes",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8372,
+          "name": "Eibar",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8555,
+          "name": "Fuenlabrada",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7732,
+          "name": "Girona",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8306,
+          "name": "Las Palmas",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7854,
+          "name": "Leganes",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8206,
+          "name": "Lugo",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9864,
+          "name": "Malaga",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8005,
+          "name": "Ponferradina",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8670,
+          "name": "Real Oviedo",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 161744,
+          "name": "Real Sociedad B",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10281,
+          "name": "Real Valladolid",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8394,
+          "name": "Real Zaragoza",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 189624,
+          "name": "SD Amorebieta",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 96925,
+          "name": "SD Huesca",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9869,
+          "name": "Sporting Gijon",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9867,
+          "name": "Tenerife",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1123073,
+          "name": "UD Ibiza",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "name": "2. Bundesliga",
+      "countryCode": "GER",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 8262,
+          "name": "Darmstadt",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8480,
+          "name": "Dynamo Dresden",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8319,
+          "name": "Erzgebirge Aue",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 94937,
+          "name": "FC Heidenheim",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8194,
+          "name": "Fortuna Düsseldorf",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9790,
+          "name": "Hamburger SV",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9904,
+          "name": "Hannover 96",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8294,
+          "name": "Hansa Rostock",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8150,
+          "name": "Holstein Kiel",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8234,
+          "name": "Ingolstadt",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7789,
+          "name": "Jahn Regensburg",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8295,
+          "name": "Karlsruher SC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8165,
+          "name": "Nürnberg",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8460,
+          "name": "Paderborn",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8086,
+          "name": "Sandhausen",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10189,
+          "name": "Schalke 04",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8152,
+          "name": "St. Pauli",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8697,
+          "name": "Werder Bremen",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "name": "Liga MX",
+      "countryCode": "MEX",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 6577,
+          "name": "Atlas",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6358,
+          "name": "Atletico de San Luis",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6576,
+          "name": "CF America",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6578,
+          "name": "Cruz Azul",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 649424,
+          "name": "FC Juarez",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7807,
+          "name": "Guadalajara",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1841,
+          "name": "Leon",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1170234,
+          "name": "Mazatlan FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7849,
+          "name": "Monterrey",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1842,
+          "name": "Necaxa",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7848,
+          "name": "Pachuca",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7847,
+          "name": "Puebla",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1946,
+          "name": "Pumas",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1943,
+          "name": "Queretaro",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7857,
+          "name": "Santos",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8561,
+          "name": "Tigres",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 162418,
+          "name": "Tijuana",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6618,
+          "name": "Toluca",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "name": "Serie A",
+      "countryCode": "BRA",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 1757,
+          "name": "America MG",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10273,
+          "name": "Athletico Paranaense",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 165545,
+          "name": "Atletico GO",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10272,
+          "name": "Atletico MG",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 7877,
+          "name": "Bahia",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 172341,
+          "name": "Ceara",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 197693,
+          "name": "Chapecoense AF",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9808,
+          "name": "Corinthians",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 197815,
+          "name": "Cuiaba",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9770,
+          "name": "Flamengo",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9863,
+          "name": "Fluminense",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8287,
+          "name": "Fortaleza",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 9769,
+          "name": "Gremio",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8702,
+          "name": "Internacional",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10274,
+          "name": "Juventude",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10283,
+          "name": "Palmeiras",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 109705,
+          "name": "Red Bull Bragantino",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 8514,
+          "name": "Santos FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 10277,
+          "name": "Sao Paulo",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 6305,
+          "name": "Sport Recife",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    },
+    {
+      "id": 8972,
+      "name": "USL Championship",
+      "countryCode": "USA",
+      "isFemale": false,
+      "teams": [
+        {
+          "id": 915806,
+          "name": "Atlanta United II",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1003210,
+          "name": "Austin Bold",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1003207,
+          "name": "Birmingham Legion",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 162183,
+          "name": "Charleston Battery",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 614315,
+          "name": "Charlotte Independence",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 614321,
+          "name": "Colorado Springs Switchbacks FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1003209,
+          "name": "El Paso Locomotive",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 614325,
+          "name": "FC Tulsa",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1003206,
+          "name": "Hartford Athletic",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 514649,
+          "name": "Indy Eleven",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 521005,
+          "name": "LA Galaxy II",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 915809,
+          "name": "Las Vegas Lights FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1003205,
+          "name": "Loudoun United",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 614316,
+          "name": "Louisville City FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1003204,
+          "name": "Memphis 901",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 721896,
+          "name": "Miami FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1003208,
+          "name": "New Mexico United",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 614318,
+          "name": "New York Red Bulls II",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1130413,
+          "name": "Oakland Roots",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 521006,
+          "name": "OKC Energy FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 267813,
+          "name": "Orange County SC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 424268,
+          "name": "Phoenix Rising FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 267816,
+          "name": "Pittsburgh Riverhounds",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 614324,
+          "name": "Real Monarchs SLC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 722267,
+          "name": "Rio Grande Valley FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 521004,
+          "name": "Sacramento Republic FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 722269,
+          "name": "San Antonio FC",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 1124827,
+          "name": "San Diego Loyal",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 722268,
+          "name": "Sporting Kansas City II",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 614327,
+          "name": "Tacoma Defiance",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        },
+        {
+          "id": 197328,
+          "name": "Tampa Bay Rowdies",
+          "fifaRank": 0,
+          "supportsNewsAlerts": false
+        }
+      ]
+    }
+  ]
+}

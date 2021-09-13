@@ -11,6 +11,13 @@
 		D0DEF53326EFB3DF0016A890 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DEF53226EFB3DF0016A890 /* ContentView.swift */; };
 		D0DEF53526EFB3E00016A890 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0DEF53426EFB3E00016A890 /* Assets.xcassets */; };
 		D0DEF53826EFB3E00016A890 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0DEF53726EFB3E00016A890 /* Preview Assets.xcassets */; };
+		D0DEF54126EFB4E00016A890 /* LiveTicker.json in Resources */ = {isa = PBXBuildFile; fileRef = D0DEF54026EFB4E00016A890 /* LiveTicker.json */; };
+		D0DEF54326EFB52E0016A890 /* TransfersConfig.json in Resources */ = {isa = PBXBuildFile; fileRef = D0DEF54226EFB52E0016A890 /* TransfersConfig.json */; };
+		D0DEF54526EFB5920016A890 /* BTC.json in Resources */ = {isa = PBXBuildFile; fileRef = D0DEF54426EFB5920016A890 /* BTC.json */; };
+		D0DEF54926EFB68C0016A890 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DEF54826EFB68C0016A890 /* ContentViewModel.swift */; };
+		D0DEF54F26EFBF3B0016A890 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DEF54E26EFBF3B0016A890 /* Endpoint.swift */; };
+		D0DEF55126EFBFDC0016A890 /* RemoteContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DEF55026EFBFDC0016A890 /* RemoteContentViewModel.swift */; };
+		D0DEF55326EFC06D0016A890 /* RemoteContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DEF55226EFC06D0016A890 /* RemoteContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +27,13 @@
 		D0DEF53426EFB3E00016A890 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0DEF53726EFB3E00016A890 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D0DEF53926EFB3E00016A890 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0DEF54026EFB4E00016A890 /* LiveTicker.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LiveTicker.json; sourceTree = "<group>"; };
+		D0DEF54226EFB52E0016A890 /* TransfersConfig.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TransfersConfig.json; sourceTree = "<group>"; };
+		D0DEF54426EFB5920016A890 /* BTC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = BTC.json; sourceTree = "<group>"; };
+		D0DEF54826EFB68C0016A890 /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
+		D0DEF54E26EFBF3B0016A890 /* Endpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Endpoint.swift; sourceTree = "<group>"; };
+		D0DEF55026EFBFDC0016A890 /* RemoteContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteContentViewModel.swift; sourceTree = "<group>"; };
+		D0DEF55226EFC06D0016A890 /* RemoteContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +66,12 @@
 		D0DEF52F26EFB3DF0016A890 /* Networking x Kristiania */ = {
 			isa = PBXGroup;
 			children = (
+				D0DEF54D26EFBF2A0016A890 /* DataService */,
+				D0DEF54C26EFB6AA0016A890 /* Model */,
+				D0DEF54B26EFB69A0016A890 /* ViewModel */,
+				D0DEF54A26EFB6960016A890 /* View */,
+				D0DEF53F26EFB4D70016A890 /* Jsons */,
 				D0DEF53026EFB3DF0016A890 /* Networking_x_KristianiaApp.swift */,
-				D0DEF53226EFB3DF0016A890 /* ContentView.swift */,
 				D0DEF53426EFB3E00016A890 /* Assets.xcassets */,
 				D0DEF53926EFB3E00016A890 /* Info.plist */,
 				D0DEF53626EFB3E00016A890 /* Preview Content */,
@@ -67,6 +85,49 @@
 				D0DEF53726EFB3E00016A890 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D0DEF53F26EFB4D70016A890 /* Jsons */ = {
+			isa = PBXGroup;
+			children = (
+				D0DEF54226EFB52E0016A890 /* TransfersConfig.json */,
+				D0DEF54426EFB5920016A890 /* BTC.json */,
+				D0DEF54026EFB4E00016A890 /* LiveTicker.json */,
+			);
+			path = Jsons;
+			sourceTree = "<group>";
+		};
+		D0DEF54A26EFB6960016A890 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				D0DEF53226EFB3DF0016A890 /* ContentView.swift */,
+				D0DEF55226EFC06D0016A890 /* RemoteContentView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		D0DEF54B26EFB69A0016A890 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				D0DEF54826EFB68C0016A890 /* ContentViewModel.swift */,
+				D0DEF55026EFBFDC0016A890 /* RemoteContentViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		D0DEF54C26EFB6AA0016A890 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D0DEF54D26EFBF2A0016A890 /* DataService */ = {
+			isa = PBXGroup;
+			children = (
+				D0DEF54E26EFBF3B0016A890 /* Endpoint.swift */,
+			);
+			path = DataService;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,7 +188,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				D0DEF53826EFB3E00016A890 /* Preview Assets.xcassets in Resources */,
+				D0DEF54126EFB4E00016A890 /* LiveTicker.json in Resources */,
+				D0DEF54326EFB52E0016A890 /* TransfersConfig.json in Resources */,
 				D0DEF53526EFB3E00016A890 /* Assets.xcassets in Resources */,
+				D0DEF54526EFB5920016A890 /* BTC.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,8 +202,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0DEF55126EFBFDC0016A890 /* RemoteContentViewModel.swift in Sources */,
+				D0DEF55326EFC06D0016A890 /* RemoteContentView.swift in Sources */,
 				D0DEF53326EFB3DF0016A890 /* ContentView.swift in Sources */,
+				D0DEF54926EFB68C0016A890 /* ContentViewModel.swift in Sources */,
 				D0DEF53126EFB3DF0016A890 /* Networking_x_KristianiaApp.swift in Sources */,
+				D0DEF54F26EFBF3B0016A890 /* Endpoint.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,750 @@
+{
+  "Lang": "en",
+  "HometeamId": 8463,
+  "AwayteamId": 8650,
+  "Events": [
+    {
+      "IncidentCode": "stats",
+      "Elapsed": 0,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool's win takes them to third in the Premier League table, level on points with Manchester United and Chelsea. They'll be satisfied with their outing, although Elliott's injury will be a cause for concern. Leeds stay 17th. They haven't quite clicked yet this season but Bielsa will surely get his side firing again.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "post_match summary",
+      "Elapsed": 0,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool continue their unbeaten streak over Leeds by securing a handsome victory. The Reds had Leeds' number even before Struijk's red card, scoring through Salah and Fabinho. Once Leeds were down to 10 men they were always going to struggle further, and Mane grabbed a goal of his own late on.",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "full time",
+      "Elapsed": 90,
+      "ElapsedPlus": 8,
+      "Description": "FULL-TIME: LEEDS UNITED 0-3 LIVERPOOL",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 90,
+      "ElapsedPlus": 8,
+      "Description": "Leeds mount one last attack until Raphinha shows too much of the ball to Fabinho. Fabinho gets the free-kick. And that's it!",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 90,
+      "ElapsedPlus": 7,
+      "Description": "Alexander-Arnold takes aim and lets rip from range with his left foot. It rolls well wide of the right-hand post.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 90,
+      "ElapsedPlus": 5,
+      "Description": "Liverpool are ending the match strongly as the 10 men of Leeds are starting to tire. Liverpool win a corner which Leeds clear. Oxlade-Chamberlain weaves his way into the box and inspires a catch from Meslier at his near post.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "SI",
+      "Elapsed": 90,
+      "ElapsedPlus": 3,
+      "Description": "Thiago's assist is his last act of the game. Keita takes his place for the last few minutes.",
+      "HometeamEvent": false,
+      "Players": [
+        {
+          "Id": 508889,
+          "Name": "Naby Keita",
+          "TeamId": 8650
+        },
+        {
+          "Id": 172949,
+          "Name": "Thiago Alcántara",
+          "TeamId": 8650
+        }
+      ],
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "AS",
+      "Elapsed": 90,
+      "ElapsedPlus": 2,
+      "Description": "Thiago was within his rights to shoot himself there but had the presence of mind to find Mane instead. The midfielder's played well on his first start of the season for Liverpool.",
+      "HometeamEvent": false,
+      "Players": [
+        {
+          "Id": 172949,
+          "Name": "Thiago Alcántara",
+          "TeamId": 8650
+        }
+      ],
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "G",
+      "Elapsed": 90,
+      "ElapsedPlus": 2,
+      "Description": "GOAL! LEEDS UNITED 0-3 LIVERPOOL! Liverpool put the gloss on a comfortable win. Thiago receives Henderson's cross from the right and passes inside to Mane. Mane turns on the spot and smashes the ball past Meslier.",
+      "HometeamEvent": false,
+      "Players": [
+        {
+          "Id": 303339,
+          "Name": "Sadio Mané",
+          "TeamId": 8650
+        }
+      ],
+      "IncludeInHighlight": true,
+      "EventId": 8254861
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 90,
+      "ElapsedPlus": -1,
+      "Description": "Leeds clear Alexander-Arnold's latest corner and win possession to get forward. Raphinha spots Bamford's run towards the far post and pings a pass over the top towards him. Liverpool are able to cut it out. There'll be eight minutes of injury time.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 89,
+      "ElapsedPlus": -1,
+      "Description": "Alexander-Arnold finds the head of Matip but Matip can't get a clean strike at goal. Liverpool force another corner down their right. They've got things well under control now.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 87,
+      "ElapsedPlus": -1,
+      "Description": "Mane latches onto a crossfield pass to scamper down the left and race into the box. Mane teases Ayling before blasting a shot against him to win a corner.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 85,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool are now focusing on counter-attacking with Leeds still trying to pull a goal back. Oxlade-Chamberlain gets caught offside from Mane's throughball before Salah's low cross hits Oxlade-Chamberlain to go out for a goal-kick.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "highlight",
+      "Elapsed": 83,
+      "ElapsedPlus": -1,
+      "Description": "Bamford spots Alisson off his line and goes for the spectacular from near the centre circle! Alisson backtracks fast enough to tip the effort over the bar. Leeds achieve nothing with the corner.",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "SI",
+      "Elapsed": 82,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool substitution. Oxlade-Chamberlain is on for Jota.",
+      "HometeamEvent": false,
+      "Players": [
+        {
+          "Id": 196386,
+          "Name": "Alex Oxlade-Chamberlain",
+          "TeamId": 8650
+        },
+        {
+          "Id": 570461,
+          "Name": "Diogo Jota",
+          "TeamId": 8650
+        }
+      ],
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "highlight",
+      "Elapsed": 80,
+      "ElapsedPlus": -1,
+      "Description": "Dallas' effort is kept in play by Raphinha who sends the ball back towards the danger area. It sails too close towards Alisson who catches and immediately launches it forward. Within seconds Mane is bearing down on goal and forcing Meslier to save with his foot! Now Liverpool will get a corner.",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 79,
+      "ElapsedPlus": -1,
+      "Description": "James takes on Alexander-Arnold down the left and gets a corner out of it for Leeds. Dallas will take it.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 78,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool are trying their best to grab a third goal. Henderson gets on the end of Robertson's cross and fires straight at Meslier. Mane and Jota both blast attempts against Leeds defenders shortly after.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 77,
+      "ElapsedPlus": -1,
+      "Description": "Salah gets loose in the box and rattles a shot off Cooper for a Liverpool corner. Leeds see it out. Despite Liverpool's two-goal lead and one-man advantage, this game doesn't feel like it's over yet.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "highlight",
+      "Elapsed": 75,
+      "ElapsedPlus": -1,
+      "Description": "James and Firpo try to combine down Leeds' left but Firpo misreads James' run and the opportunity passes. Raphinha scampers onto a pass down the right and crosses low for Bamford. Alisson is there to make the block. The pair exchange warm words as they help each other up.",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 73,
+      "ElapsedPlus": -1,
+      "Description": "Alexander-Arnold inspires a routine save from Meslier by shooting from the centre of the box. The Leeds fans are singing less than supportive songs about the referee now. It's hard to see what they're unhappy about. Struijk badly injured Elliott so he had to go.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 72,
+      "ElapsedPlus": -1,
+      "Description": "Raphinha swings the ball towards the far post. Liverpool clear but Leeds still have the ball. Roberts takes a tumble on the edge of the box but the referee isn't interested.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 71,
+      "ElapsedPlus": -1,
+      "Description": "The home crowd cheers sarcastically as Fabinho's penalised for a foul on James. Raphinha is lining up another free-kick.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 69,
+      "ElapsedPlus": -1,
+      "Description": "To their credit Leeds haven't given up yet. Phillips fires in a cross that clips off a Liverpool head. Firpo thinks he's won a corner off Alexander-Arnold but the decision goes Liverpool's way.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "SI",
+      "Elapsed": 68,
+      "ElapsedPlus": -1,
+      "Description": "Here's that Leeds change. James replaces Harrison on Leeds' left wing.",
+      "HometeamEvent": true,
+      "Players": [
+        {
+          "Id": 717176,
+          "Name": "Daniel James",
+          "TeamId": 8463
+        },
+        {
+          "Id": 751649,
+          "Name": "Jack Harrison",
+          "TeamId": 8463
+        }
+      ],
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 67,
+      "ElapsedPlus": -1,
+      "Description": "Leeds are preparing their new signing James to come on. Liverpool's corner comes in and Leeds get a free-kick as Meslier gets taken out.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 66,
+      "ElapsedPlus": -1,
+      "Description": "Robertson latches onto a pass down the line and plays the ball off Raphinha for a Liverpool corner.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 65,
+      "ElapsedPlus": -1,
+      "Description": "Struijk's dismissal has taken away all the momentum that Leeds were building. It's going to be even harder for them to get back into this game now they're down to 10 men. The hosts are trying their best though as Bamford heads wide from Raphinha's free-kick.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "SI",
+      "Elapsed": 63,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool substitution. Henderson replaces the stricken Elliott.",
+      "HometeamEvent": false,
+      "Players": [
+        {
+          "Id": 156008,
+          "Name": "Jordan Henderson",
+          "TeamId": 8650
+        },
+        {
+          "Id": 963964,
+          "Name": "Harvey Elliott",
+          "TeamId": 8650
+        }
+      ],
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "highlight",
+      "Elapsed": 62,
+      "ElapsedPlus": -1,
+      "Description": "Play is yet to resume. Elliott is being carried off the pitch on a stretcher now. You have to hope the teenager won't be out of action for too long.",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "RC",
+      "Elapsed": 60,
+      "ElapsedPlus": -1,
+      "Description": "RED CARD FOR STRUIJK! After examining Elliott the referee reaches to his pocket and dismisses Struijk. Both Leeds and Liverpool players console the defender as he leaves the pitch. Klopp is in furious discussion with the officials. He's clearly disgusted by the tackle.",
+      "HometeamEvent": true,
+      "Players": [
+        {
+          "Id": 796974,
+          "Name": "Pascal Struijk",
+          "TeamId": 8463
+        }
+      ],
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "comment_important",
+      "Elapsed": 58,
+      "ElapsedPlus": -1,
+      "Description": "Elliott is down injured after a forceful challenge by Struijk. The medical staff are bringing a stretcher onto the pitch so it looks to be serious. Klopp is shaking his head.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "highlight",
+      "Elapsed": 56,
+      "ElapsedPlus": -1,
+      "Description": "Roberts watches his shot roll wide as he gets on the end of Harrison's cutback! If Leeds can score soon they may still be able to salvage something from this game.",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 54,
+      "ElapsedPlus": -1,
+      "Description": "Leeds have improved going forward since Bielsa's half-time switch and conceding a second goal hasn't taken the wind out of their sails. Roberts nods a tame header into the arms of Alisson.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "stats",
+      "Elapsed": 52,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool have now scored in their last 16 league games against Leeds. Leeds' defence remains as porous as it was last season.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "G",
+      "Elapsed": 50,
+      "ElapsedPlus": -1,
+      "Description": "GOAL! LEEDS UNITED 0-2 LIVERPOOL! Liverpool are cruising now! Van Dijk gets on the end of Alexander-Arnold's corner and nods it down for Fabinho whose first shot is blocked. The Brazilian gets another try and this time smashes the ball home! VAR takes a look at a possible offside against Mane, but the goal stands.",
+      "HometeamEvent": false,
+      "Players": [
+        {
+          "Id": 359188,
+          "Name": "Fabinho",
+          "TeamId": 8650
+        }
+      ],
+      "IncludeInHighlight": true,
+      "EventId": 8254442
+    },
+    {
+      "IncidentCode": "highlight",
+      "Elapsed": 48,
+      "ElapsedPlus": -1,
+      "Description": "Leeds have switched to a 4-2-3-1 with Roberts behind Bamford. Harrison flings a cross into the box from the left that Bamford can't control. Up the other end, Mane fires wide before Salah does the same from close range! It must have taken a deflection as you'd have banked on the Egyptian scoring.",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "kick off",
+      "Elapsed": 46,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool get the second half started. They haven't made any changes yet, understandably.",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "SI",
+      "Elapsed": 46,
+      "ElapsedPlus": -1,
+      "Description": "Leeds make a tactical change at half-time. Rodrigo goes off and is replaced by Roberts.",
+      "HometeamEvent": true,
+      "Players": [
+        {
+          "Id": 643230,
+          "Name": "Tyler Roberts",
+          "TeamId": 8463
+        },
+        {
+          "Id": 193869,
+          "Name": "Rodrigo",
+          "TeamId": 8463
+        }
+      ],
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "stats",
+      "Elapsed": 0,
+      "ElapsedPlus": -1,
+      "Description": "Alexander-Arnold has created more chances and completed more successful open play crosses than any other player in the Premier League this season, and he managed to find Salah for his side's opening goal here. Leeds will need to contain the Liverpool full-back and give him more defending to do in the second half.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "half_time summary",
+      "Elapsed": 0,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool go in at half-time with a deserved lead. The visitors didn't take long to grab this game by the scruff of the neck and score through Salah. Since then Liverpool have regularly threatened to find the net again while limiting Leeds to Ayling's half-chance.",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "half time",
+      "Elapsed": 45,
+      "ElapsedPlus": 2,
+      "Description": "HALF-TIME: LEEDS UNITED 0-1 LIVERPOOL",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 45,
+      "ElapsedPlus": 1,
+      "Description": "There'll be two minutes added onto the end of this first half, one in which Liverpool have been comfortably the better side.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 45,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool have a free-kick near the halfway line. Robertson floats it into the box and it lands to Salah who can't control it. ",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "highlight",
+      "Elapsed": 43,
+      "ElapsedPlus": -1,
+      "Description": "Phillips releases Raphinha down the left and the Brazilian's cross is blocked. Leeds keep the ball moving and Ayling shins Rodrigo's cross high and wide at the far post.",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 41,
+      "ElapsedPlus": -1,
+      "Description": "Alexander-Arnold sweeps his free-kick into Leeds' defensive wall. If Leeds go in at half-time just the one goal down, they'll be content with that given Liverpool's dominance in this first half.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 39,
+      "ElapsedPlus": -1,
+      "Description": "Jota has a shot blocked from outside the box. Cooper tackles Jota just outside the D and Leeds are disappointed to see the free-kick go against them. Alexander-Arnold and Salah are eyeing this up.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 37,
+      "ElapsedPlus": -1,
+      "Description": "Mane twists and turns to see off the attention of Struijk near the centre circle. In time Liverpool reach the edge of Leeds' box again and Elliott lashes a speculative effort wide.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 35,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool slow the tempo slightly, moving the ball around in midfield. Alexander-Arnold strays offside and Klopp frustratedly gesticulates to his assistants in the dugout.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "SI",
+      "Elapsed": 33,
+      "ElapsedPlus": -1,
+      "Description": "Struijk takes Llorente's place at the heart of Leeds' defence.",
+      "HometeamEvent": true,
+      "Players": [
+        {
+          "Id": 796974,
+          "Name": "Pascal Struijk",
+          "TeamId": 8463
+        },
+        {
+          "Id": 420568,
+          "Name": "Diego Llorente",
+          "TeamId": 8463
+        }
+      ],
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "highlight",
+      "Elapsed": 32,
+      "ElapsedPlus": -1,
+      "Description": "Llorente is shaking his head. It looks like the Leeds centre-back has picked up an injury and will be unable to continue.",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "highlight",
+      "Elapsed": 31,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool just keep coming. Salah lays off to Mane and the Senegal forward lashes an effort wide of the left-hand post. ",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "YC",
+      "Elapsed": 30,
+      "ElapsedPlus": -1,
+      "Description": "Llorente is the next Leeds player to find his name in the book for a poor challenge on Jota.",
+      "HometeamEvent": true,
+      "Players": [
+        {
+          "Id": 420568,
+          "Name": "Diego Llorente",
+          "TeamId": 8463
+        }
+      ],
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 29,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool aren't giving Leeds the time and space to create very much in an attacking sense. They've managed to crowd the hosts out so far.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 27,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool get a corner down their right as Meslier saves Elliott's strike. Alexander-Arnold finds Van Dijk who has a free header from the centre of the box. It deflects off a Leeds man to give Liverpool a second bite of the cherry. This time Leeds get it away.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "highlight",
+      "Elapsed": 25,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool smell blood and are already looking for a second goal. Mane skies Jota's cutback from the byline at the far post when it looks easier to score. Seconds later Elliott smashes a long-range effort against Phillips.",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 24,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool think they've scored a second goal in quick succession as Thiago puts the ball in the net but Salah was offside in the build-up.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "stats",
+      "Elapsed": 23,
+      "ElapsedPlus": -1,
+      "Description": "Salah's goal is his 100th in the Premier League. He's become the fifth-fastest player to reach 100 goals in the competition after Alan Shearer, Harry Kane, Sergio Aguero and Thierry Henry. Not bad company for Salah to keep.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "AS",
+      "Elapsed": 20,
+      "ElapsedPlus": -1,
+      "Description": "Alexander-Arnold has been heavily involved for Liverpool so far and found the perfect pass for Salah there. Liverpool have the early advantage.",
+      "HometeamEvent": false,
+      "Players": [
+        {
+          "Id": 760712,
+          "Name": "Trent Alexander-Arnold",
+          "TeamId": 8650
+        }
+      ],
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "G",
+      "Elapsed": 20,
+      "ElapsedPlus": -1,
+      "Description": "GOAL! LEEDS UNITED 0-1 LIVERPOOL! After some patient Liverpool build-up, Alexander-Arnold squares the ball for Salah who taps into the net from inside the six-yard box.",
+      "HometeamEvent": false,
+      "Players": [
+        {
+          "Id": 292462,
+          "Name": "Mohamed Salah",
+          "TeamId": 8650
+        }
+      ],
+      "IncludeInHighlight": true,
+      "EventId": 8253942
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 19,
+      "ElapsedPlus": -1,
+      "Description": "Mane's shot hits a Leeds defender and Liverpool have another corner. Again Leeds clear Alexander-Arnold's ball in.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 18,
+      "ElapsedPlus": -1,
+      "Description": "Leeds hustle and bustle in Liverpool's half, leading Firpo to fire against a Liverpool defender. Liverpool stay composed and manage to play their way out.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "YC",
+      "Elapsed": 16,
+      "ElapsedPlus": -1,
+      "Description": "Fabinho's booked for that challenge on Rodrigo.",
+      "HometeamEvent": false,
+      "Players": [
+        {
+          "Id": 359188,
+          "Name": "Fabinho",
+          "TeamId": 8650
+        }
+      ],
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 16,
+      "ElapsedPlus": -1,
+      "Description": "Fabinho slides in roughly on Rodrigo to give away a free-kick in the centre of the pitch. The Brazilian can have few complaints if he sees a card for this.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "highlight",
+      "Elapsed": 14,
+      "ElapsedPlus": -1,
+      "Description": "Leeds are having to endure significant pressure at the moment. Meslier rushes out of his goal to sweep up as Mane looks to catch onto a loose ball. Seconds later Jota chests down Salah's pass from deep and hooks it on the volley towards Meslier. Meslier takes the sting out of the shot.",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "YC",
+      "Elapsed": 12,
+      "ElapsedPlus": -1,
+      "Description": "Leeds' captain Cooper is shown a yellow card for that challenge on Mane. Alexander-Arnold promptly wastes the free-kick with a poor ball in that floats harmlessly out of play.",
+      "HometeamEvent": true,
+      "Players": [
+        {
+          "Id": 150591,
+          "Name": "Liam Cooper",
+          "TeamId": 8463
+        }
+      ],
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 11,
+      "ElapsedPlus": -1,
+      "Description": "Leeds see out the corner without incident. Mane is tugged down on the edge of the penalty area by Cooper.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 10,
+      "ElapsedPlus": -1,
+      "Description": "Van Dijk looks to catch out Leeds' high back line by releasing Salah from deep. Leeds anticipate the pass well. Mane scuffs a shot against Llorente from outside the box and wins Liverpool their first corner of the match.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 9,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool win a free-kick down their right. Alexander-Arnold's set-piece delivery is cleared but the visitors manage to keep the ball.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 8,
+      "ElapsedPlus": -1,
+      "Description": "Meslier confidently claims Mane's looped cross from the byline. Bamford can't control Meslier's pass forward and Alexander-Arnold takes his time over the throw-in, allowing everyone to get their breath back after a lively opening to the game.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 6,
+      "ElapsedPlus": -1,
+      "Description": "Alexander-Arnold intercepts a Leeds clearance and fizzes a sweet pass across the face of goal from the right. Jota is not far away from reaching it.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "highlight",
+      "Elapsed": 4,
+      "ElapsedPlus": -1,
+      "Description": "The game's started brightly and at great pace. Leeds launch an attack down their left which breaks down when Firpo's backheel can only find a Liverpool shirt. Leeds come straight back and Rodrigo blasts straight at Alisson from the edge of the box. The Liverpool goalkeeper is equal to the shot.",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 2,
+      "ElapsedPlus": -1,
+      "Description": "Leeds pop the ball around themselves before venturing over the halfway line. Ayling sends a ball over the top for Bamford who fires a dipping shot wide from the right of the box.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "kick off",
+      "Elapsed": 1,
+      "ElapsedPlus": -1,
+      "Description": "The players take the knee and Leeds get this game underway!",
+      "IncludeInHighlight": true
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 0,
+      "ElapsedPlus": -1,
+      "Description": "Leeds and Liverpool are greeted by a wall of noise as they come out onto the pitch at Elland Road. True to their names, Leeds are in all-white and Liverpool all-red. No need for silly away kits here!",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "stats",
+      "Elapsed": 0,
+      "ElapsedPlus": -1,
+      "Description": "This has been an entertaining fixture over the years with Liverpool doing better historically. Liverpool are unbeaten in their last eight league meetings with Leeds and have lost just one of their last nine league visits to Elland Road, going down 4-3 in November 2000 with Mark Viduka scoring all four of Leeds' goals. The Reds have scored in each of their last 15 games against the Whites. Goals here are practically guaranteed.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "team news",
+      "Elapsed": 0,
+      "ElapsedPlus": -1,
+      "Description": "In typical fashion, Leeds boss Marcelo Bielsa keeps changes to his side to a minimum. There's just one change to Leeds from their 1-1 draw against Burnley before the international break. Firpo comes in for Struijk as Leeds revert to four at the back. Liverpool make two changes from their last game against Chelsea. Thiago and Jota come in for Henderson and the injured Roberto Firmino.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 0,
+      "ElapsedPlus": -1,
+      "Description": "SUBS: Konstantinos Tsimikas, Ibrahima Konate, Joseph Gomez, Naby Keita, Alex Oxlade-Chamberlain, Jordan Henderson, Curtis Jones, Caoimhin Kelleher, James Milner.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 0,
+      "ElapsedPlus": -1,
+      "Description": "LIVERPOOL (4-3-3): Alisson; Trent Alexander-Arnold, Joel Matip, Virgil van Dijk (c), Andrew Robertson; Harvey Elliott, Fabinho, Thiago; Mohamed Salah, Diogo Jota, Sadio Mane.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 0,
+      "ElapsedPlus": -1,
+      "Description": "SUBS: Crysencio Summerville, Charlie Cresswell, Jamie Shackleton, Tyler Roberts, Mateusz Klich, Pascal Struijk, Daniel James, Kristoffer Klaesson, Liam McCarron.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 0,
+      "ElapsedPlus": -1,
+      "Description": "LEEDS UNITED (4-1-4-1): Illan Meslier; Luke Ayling, Diego Llorente, Liam Cooper (c), Junior Firpo; Kalvin Phillips; Raphinha, Stuart Dallas, Rodrigo Moreno, Jack Harrison; Patrick Bamford.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 0,
+      "ElapsedPlus": -1,
+      "Description": "Liverpool may make Leeds wait a little longer for that first win though. Only Brentford are on a longer unbeaten run in England's top four tiers than the Reds, who have also won their last four Premier League away games in a row. With all their title rivals winning earlier this weekend, Jurgen Klopp's men will want to continue their strong start to the season.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 0,
+      "ElapsedPlus": -1,
+      "Description": "After winning their last four league games last campaign, Leeds remain winless in the Premier League so far this season. The Whites have drawn their last two games though and are unbeaten in their last seven Premier League games at Elland Road, their longest run without defeat at home in the top-flight since 2001. That first win of the season is bound to come soon.",
+      "IncludeInHighlight": false
+    },
+    {
+      "IncidentCode": "comment",
+      "Elapsed": 0,
+      "ElapsedPlus": -1,
+      "Description": "Hello! Welcome to our live text commentary of this Premier League match between Leeds United and Liverpool at Elland Road.",
+      "IncludeInHighlight": false
+    }
+  ],
+  "AutoCommentaries": false,
+  "IsExpanded": false
+}
