@@ -19,6 +19,7 @@
 		D0DEF55126EFBFDC0016A890 /* RemoteContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DEF55026EFBFDC0016A890 /* RemoteContentViewModel.swift */; };
 		D0DEF55326EFC06D0016A890 /* RemoteContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DEF55226EFC06D0016A890 /* RemoteContentView.swift */; };
 		D0DEF55526EFC3810016A890 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DEF55426EFC3810016A890 /* DataService.swift */; };
+		D0DEF55726EFC9CB0016A890 /* BTC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DEF55626EFC9CB0016A890 /* BTC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		D0DEF55026EFBFDC0016A890 /* RemoteContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteContentViewModel.swift; sourceTree = "<group>"; };
 		D0DEF55226EFC06D0016A890 /* RemoteContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteContentView.swift; sourceTree = "<group>"; };
 		D0DEF55426EFC3810016A890 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+		D0DEF55626EFC9CB0016A890 /* BTC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BTC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 		D0DEF54C26EFB6AA0016A890 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				D0DEF55626EFC9CB0016A890 /* BTC.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				D0DEF55326EFC06D0016A890 /* RemoteContentView.swift in Sources */,
 				D0DEF53326EFB3DF0016A890 /* ContentView.swift in Sources */,
 				D0DEF54926EFB68C0016A890 /* ContentViewModel.swift in Sources */,
+				D0DEF55726EFC9CB0016A890 /* BTC.swift in Sources */,
 				D0DEF53126EFB3DF0016A890 /* Networking_x_KristianiaApp.swift in Sources */,
 				D0DEF54F26EFBF3B0016A890 /* Endpoint.swift in Sources */,
 			);

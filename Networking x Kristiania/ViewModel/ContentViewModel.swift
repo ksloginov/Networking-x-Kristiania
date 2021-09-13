@@ -39,13 +39,19 @@ class ContentViewModel: ObservableObject {
     
     // Snake case
     func parseBTC(_ json: String?) {
-        guard let json = json else {
+        guard let data = json?.data(using: .utf8) else {
             state = .failure
             return
         }
         
-        // TODO: Parse BTC
-        state = .success
+        do {
+            let decoder = JSONDecoder()
+            decoder.keyDecodingStrategy = .convertFromSnakeCase
+            _ = try decoder.decode(BTC.self, from: data)
+            state = .success
+        } catch {
+            state = .failure
+        }
     }
     
     // TODO for you!
