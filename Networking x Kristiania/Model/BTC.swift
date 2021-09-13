@@ -13,7 +13,7 @@ struct BTC: Codable {
 }
 
 struct Rate: Codable {
-    let time: String
+    let time: Date
     let assetIdQuote: String
     let rate: Double
 }

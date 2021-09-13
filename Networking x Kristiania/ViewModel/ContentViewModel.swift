@@ -47,6 +47,7 @@ class ContentViewModel: ObservableObject {
         do {
             let decoder = JSONDecoder()
             decoder.keyDecodingStrategy = .convertFromSnakeCase
+            decoder.dateDecodingStrategy = .formatted(DateFormatter.iso8601Full)
             _ = try decoder.decode(BTC.self, from: data)
             state = .success
         } catch {
@@ -70,4 +71,13 @@ class ContentViewModel: ObservableObject {
         case success
         case failure
     }
+}
+
+
+extension DateFormatter {
+    static let iso8601Full: DateFormatter = {
+        let formatter = DateFormatter()
+        formatter.dateFormat = "yyyy-MM-dd'T'HH:mm:ss.SSSZZZZZ"
+        return formatter
+    }()
 }
