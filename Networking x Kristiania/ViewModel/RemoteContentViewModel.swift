@@ -11,6 +11,8 @@ class RemoteContentViewModel: ObservableObject {
     
     @Published var state: State = .initial
     
+    let dataService: DataService = DataService()
+    
     func loadTranferConfig() {
         
     }
@@ -20,7 +22,19 @@ class RemoteContentViewModel: ObservableObject {
     }
     
     func loadLiveTicker() {
-        
+        dataService.loadLiveTicker { [weak self] result in
+            switch result {
+            case .success(_):
+                DispatchQueue.main.async {
+                    self?.state = .success
+                }
+            case .failure(let handledError):
+                DispatchQueue.main.async {
+                    self?.state = .failure
+                }
+                print(handledError)
+            }
+        }
     }
     
     enum State {

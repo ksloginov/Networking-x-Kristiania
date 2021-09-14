@@ -11,7 +11,7 @@ import SwiftUI
 struct Networking_x_KristianiaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RemoteContentView()
         }
     }
 }

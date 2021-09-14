@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D03AE01426F0E0070022EC2D /* BTC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03AE01326F0E0070022EC2D /* BTC.swift */; };
+		D03AE01626F0E13D0022EC2D /* LiveTicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03AE01526F0E13D0022EC2D /* LiveTicker.swift */; };
+		D03AE01826F0E97A0022EC2D /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03AE01726F0E97A0022EC2D /* DataService.swift */; };
 		D0DEF53126EFB3DF0016A890 /* Networking_x_KristianiaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DEF53026EFB3DF0016A890 /* Networking_x_KristianiaApp.swift */; };
 		D0DEF53326EFB3DF0016A890 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0DEF53226EFB3DF0016A890 /* ContentView.swift */; };
 		D0DEF53526EFB3E00016A890 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0DEF53426EFB3E00016A890 /* Assets.xcassets */; };
@@ -21,6 +24,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D03AE01126F0D7620022EC2D /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D03AE01326F0E0070022EC2D /* BTC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BTC.swift; sourceTree = "<group>"; };
+		D03AE01526F0E13D0022EC2D /* LiveTicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveTicker.swift; sourceTree = "<group>"; };
+		D03AE01726F0E97A0022EC2D /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		D0DEF52D26EFB3DF0016A890 /* Networking x Kristiania.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Networking x Kristiania.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0DEF53026EFB3DF0016A890 /* Networking_x_KristianiaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Networking_x_KristianiaApp.swift; sourceTree = "<group>"; };
 		D0DEF53226EFB3DF0016A890 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -47,6 +54,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D03AE01226F0DFFF0022EC2D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D03AE01326F0E0070022EC2D /* BTC.swift */,
+				D03AE01526F0E13D0022EC2D /* LiveTicker.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		D0DEF52426EFB3DF0016A890 = {
 			isa = PBXGroup;
 			children = (
@@ -66,8 +82,8 @@
 		D0DEF52F26EFB3DF0016A890 /* Networking x Kristiania */ = {
 			isa = PBXGroup;
 			children = (
+				D03AE01226F0DFFF0022EC2D /* Model */,
 				D0DEF54D26EFBF2A0016A890 /* DataService */,
-				D0DEF54C26EFB6AA0016A890 /* Model */,
 				D0DEF54B26EFB69A0016A890 /* ViewModel */,
 				D0DEF54A26EFB6960016A890 /* View */,
 				D0DEF53F26EFB4D70016A890 /* Jsons */,
@@ -75,6 +91,7 @@
 				D0DEF53426EFB3E00016A890 /* Assets.xcassets */,
 				D0DEF53926EFB3E00016A890 /* Info.plist */,
 				D0DEF53626EFB3E00016A890 /* Preview Content */,
+				D03AE01126F0D7620022EC2D /* MyPlayground.playground */,
 			);
 			path = "Networking x Kristiania";
 			sourceTree = "<group>";
@@ -115,17 +132,11 @@
 			path = ViewModel;
 			sourceTree = "<group>";
 		};
-		D0DEF54C26EFB6AA0016A890 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
 		D0DEF54D26EFBF2A0016A890 /* DataService */ = {
 			isa = PBXGroup;
 			children = (
 				D0DEF54E26EFBF3B0016A890 /* Endpoint.swift */,
+				D03AE01726F0E97A0022EC2D /* DataService.swift */,
 			);
 			path = DataService;
 			sourceTree = "<group>";
@@ -202,10 +213,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D03AE01826F0E97A0022EC2D /* DataService.swift in Sources */,
 				D0DEF55126EFBFDC0016A890 /* RemoteContentViewModel.swift in Sources */,
+				D03AE01426F0E0070022EC2D /* BTC.swift in Sources */,
 				D0DEF55326EFC06D0016A890 /* RemoteContentView.swift in Sources */,
 				D0DEF53326EFB3DF0016A890 /* ContentView.swift in Sources */,
 				D0DEF54926EFB68C0016A890 /* ContentViewModel.swift in Sources */,
+				D03AE01626F0E13D0022EC2D /* LiveTicker.swift in Sources */,
 				D0DEF53126EFB3DF0016A890 /* Networking_x_KristianiaApp.swift in Sources */,
 				D0DEF54F26EFBF3B0016A890 /* Endpoint.swift in Sources */,
 			);

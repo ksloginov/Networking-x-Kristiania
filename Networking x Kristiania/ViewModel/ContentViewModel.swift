@@ -39,24 +39,44 @@ class ContentViewModel: ObservableObject {
     
     // Snake case
     func parseBTC(_ json: String?) {
-        guard let json = json else {
+        guard let json = json, let data = json.data(using: .utf8) else {
             state = .failure
             return
         }
         
-        // TODO: Parse BTC
-        state = .success
+        let decoder = JSONDecoder()
+        decoder.keyDecodingStrategy = .convertFromSnakeCase
+        decoder.dateDecodingStrategy = .formatted(dateFormatter)
+        
+        do {
+            let _ = try decoder.decode(BTC.self, from: data)
+            state = .success
+        } catch {
+            print(error)
+            state = .failure
+        }
     }
     
-    // TODO for you!
+    private var dateFormatter: DateFormatter {
+        let formatter = DateFormatter()
+        formatter.dateFormat = "yyyy-MM-dd'T'HH:mm:ss.SSSZZZZZ"
+        return formatter
+    }
+    
     func parseLiveTicker(_ json: String?) {
-        guard let json = json else {
+        guard let json = json, let data = json.data(using: .utf8) else {
             state = .failure
             return
         }
         
-        // TODO: Parse LiveTicker
-        state = .success
+        let decoder = JSONDecoder()
+        
+        do {
+            let _ = try decoder.decode(LiveTicker.self, from: data)
+            state = .success
+        } catch {
+            state = .failure
+        }
     }
     
     enum State {
